@@ -8,7 +8,7 @@ export const Header = () => {
             <LogoIcon className=" w-8 h-8" />
           </div>
           <div className="flex justify-center items-center">
-            <button>Join waitlist</button>
+            <button className='py-2 px-3 rounded-lg font-medium text-sm bg-gradient-to-b from-[#190d2e] to-[#4A208A] shadow-[0px_0px_12px_#8c45ff]'>Join waitlist</button>
             <div>
               menu
             </div>
